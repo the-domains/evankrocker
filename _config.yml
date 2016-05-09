@@ -1,5 +1,7 @@
-favicon: null
-name: evankrocker
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.7437276
 color:
   saturation: 0.2741936
   brandStrength: 0.9952867766842246
-  lightness: 0.3709677
+  rhythmicContrast: 0.7387508
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  rhythmicContrast: 0.7387508
-typography_spectrum: 0.4265233
-layout_spectrum: 0.7437276
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.3709677
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: evankrocker
+typography_spectrum: 0.4265233
